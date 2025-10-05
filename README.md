@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **java Script, UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ritesh-chaurasia-96a37626b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/ritesh-chaurasia-96a37626b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ritesh-chaurasia-96a37626b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://url-shortner-main-zfw1.onrender.com/Linkedin_profile_link)
 
 - 📫 How to reach me **chaurasiaritesh@gmail.com**
 
